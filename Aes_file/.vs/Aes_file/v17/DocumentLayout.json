@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code C\\Aes_file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|D:\\Code C\\Aes_file\\Aes_file\\ciphertext_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|solutionrelative:Aes_file\\ciphertext_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|D:\\Code C\\Aes_file\\Aes_file\\ciphertext_input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|solutionrelative:Aes_file\\ciphertext_input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|D:\\Code C\\Aes_file\\Aes_file\\plaintext_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|solutionrelative:Aes_file\\plaintext_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|D:\\Code C\\Aes_file\\Aes_file\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|solutionrelative:Aes_file\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|D:\\Code C\\Aes_file\\Aes_file\\plaintext_input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B98A0608-9838-4CE9-A82B-FBF48CB54307}|Aes_file\\Aes_file.vcxproj|solutionrelative:Aes_file\\plaintext_input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ciphertext_output.txt",
+              "DocumentMoniker": "D:\\Code C\\Aes_file\\Aes_file\\ciphertext_output.txt",
+              "RelativeDocumentMoniker": "Aes_file\\ciphertext_output.txt",
+              "ToolTip": "D:\\Code C\\Aes_file\\Aes_file\\ciphertext_output.txt",
+              "RelativeToolTip": "Aes_file\\ciphertext_output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T12:23:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ciphertext_input.txt",
+              "DocumentMoniker": "D:\\Code C\\Aes_file\\Aes_file\\ciphertext_input.txt",
+              "RelativeDocumentMoniker": "Aes_file\\ciphertext_input.txt",
+              "ToolTip": "D:\\Code C\\Aes_file\\Aes_file\\ciphertext_input.txt",
+              "RelativeToolTip": "Aes_file\\ciphertext_input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADgDAEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T12:22:54.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plaintext_output.txt",
+              "DocumentMoniker": "D:\\Code C\\Aes_file\\Aes_file\\plaintext_output.txt",
+              "RelativeDocumentMoniker": "Aes_file\\plaintext_output.txt",
+              "ToolTip": "D:\\Code C\\Aes_file\\Aes_file\\plaintext_output.txt",
+              "RelativeToolTip": "Aes_file\\plaintext_output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADgDAEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T12:22:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plaintext_input.txt",
+              "DocumentMoniker": "D:\\Code C\\Aes_file\\Aes_file\\plaintext_input.txt",
+              "RelativeDocumentMoniker": "Aes_file\\plaintext_input.txt",
+              "ToolTip": "D:\\Code C\\Aes_file\\Aes_file\\plaintext_input.txt",
+              "RelativeToolTip": "Aes_file\\plaintext_input.txt",
+              "ViewState": "AQIAAJsCAAAAAAAAAAAQwKwCAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T12:22:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.c",
+              "DocumentMoniker": "D:\\Code C\\Aes_file\\Aes_file\\Main.c",
+              "RelativeDocumentMoniker": "Aes_file\\Main.c",
+              "ToolTip": "D:\\Code C\\Aes_file\\Aes_file\\Main.c",
+              "RelativeToolTip": "Aes_file\\Main.c",
+              "ViewState": "AQIAACwCAAAAAAAAAAAIwDMCAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-16T12:20:41.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

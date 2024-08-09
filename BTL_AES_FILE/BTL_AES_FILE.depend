@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713431460 source:d:\code c\btl_aes_file\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
